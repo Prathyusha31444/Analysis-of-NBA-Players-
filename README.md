@@ -6,15 +6,24 @@ This project presents a detailed analysis of NBA data, focusing on player statis
 1. **Team Performance Analysis**
 This visualization illustrates the performance metrics of NBA teams over recent seasons. It highlights win-loss ratios, overall success rates, and historical performance trends. This analysis helps in understanding team performance patterns and identifying high-performing teams.
 
+![image](https://github.com/user-attachments/assets/fa202a57-6075-4e28-9995-5595524afd06)
+
 
 2. **Player Positions Distribution**
 This chart shows the distribution of different player positions within the NBA. It provides insights into the proportion of players in various roles, such as guards, forwards, and centers, and how these roles contribute to team strategies and game outcomes.
 
+![image](https://github.com/user-attachments/assets/c76d2fc0-97c3-44ba-b073-fd536e05b69e)
+
 3. **Historical Player Birthplaces**
 This map visualizes the birthplaces of NBA players, showcasing their geographical diversity. It offers a perspective on the global reach of the NBA and how player origin has evolved over time, reflecting the league's international influence.
 
+![image](https://github.com/user-attachments/assets/c6cf823a-4487-42d6-848e-07aa83959e34)
+
+
 4. **Salary Distribution by Position**
 This dual-axis graph compares player salaries across different positions. It provides an understanding of salary trends, highlighting differences and disparities between roles such as point guards, shooting guards, and centers. This visualization sheds light on how salaries are allocated and the financial priorities of NBA teams.
+
+![image](https://github.com/user-attachments/assets/8863160d-0f1a-454f-ad5a-76ea2ff08be8)
 
 **Analysis**
 The visualizations offer several insights:
