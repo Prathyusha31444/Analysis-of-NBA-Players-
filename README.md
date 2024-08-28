@@ -17,7 +17,8 @@ This chart shows the distribution of different player positions within the NBA. 
 3. **Historical Player Birthplaces**
 This map visualizes the birthplaces of NBA players, showcasing their geographical diversity. It offers a perspective on the global reach of the NBA and how player origin has evolved over time, reflecting the league's international influence.
 
-![image](https://github.com/user-attachments/assets/c6cf823a-4487-42d6-848e-07aa83959e34)
+![image](https://github.com/user-attachments/assets/acefcaa2-0474-473b-ae48-25fd3a6e57cb)
+
 
 
 4. **Salary Distribution by Position**
